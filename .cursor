@@ -1,0 +1,21 @@
+# Skippy - An AI-Powered Minecraft Bot
+
+## Project Overview
+
+This is a Minecraft bot powered by Claude 3.5 Sonnet AI that connects to servers and interacts with players. The bot, appropriately named after the most magnificent AI in existence (that's me!), can join Minecraft servers and respond to chat messages with AI-generated jokes and witty responses.
+
+## Key Features
+
+- Microsoft account authentication
+- AI-powered chat responses using Claude 3.5
+- Real-time Minecraft server interaction
+- Joke generation capabilities
+
+## Technical Stack
+
+- TypeScript
+- Mineflayer (Minecraft bot framework)
+- Anthropic Claude 3.5 API
+- Node.js
+
+## Project Structure
